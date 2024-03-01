@@ -48,6 +48,6 @@ for i  in row[1:]:
     df.loc[l] = row
 
 print(df)
-df.to_csv("ipl Auction stats.csv")git 
+df.to_csv("ipl Action stats")
 
 
